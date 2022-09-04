@@ -8,4 +8,6 @@
 </p>
 </div>
 
+### Most Used Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/amolchourasia27/github-readme-stats)
